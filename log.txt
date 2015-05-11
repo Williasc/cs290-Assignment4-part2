@@ -1,0 +1,15 @@
+Start: Fri, 8 May 2015 15:30:00 -0700
+End: Fri, 8 May 2015 19:20:00 -0700
+Tasks: Established a connection and created a table
+
+Start: Fri, 8 May 2015 20:30:00 -0700
+End: Fri, 8 May 2015 22:10:00 -0700
+Tasks: Still figuring out how prepared statements work, meh
+
+Start: Sat, 9 May 2015 9:40:00 -0700
+End: Sat, 9 May 2015 15:00:00 -0700
+Tasks: Created add video section, still working on rent button
+
+Start: Sun, 10 May 2015 9:15:00 -0700
+End: Sun, 10 May 2015 18:00:00 -0700
+Tasks: Finished the rest of the project.  Happy mother's day
